@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.645
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ТravelerDiamonds_MonoGame", "ТravelerDiamonds_MonoGame.csproj", "{92526363-8FF4-475C-851F-F333AAA639F6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{92526363-8FF4-475C-851F-F333AAA639F6}.Debug|x86.ActiveCfg = Debug|x86
+		{92526363-8FF4-475C-851F-F333AAA639F6}.Debug|x86.Build.0 = Debug|x86
+		{92526363-8FF4-475C-851F-F333AAA639F6}.Release|x86.ActiveCfg = Release|x86
+		{92526363-8FF4-475C-851F-F333AAA639F6}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {81845B2D-8F73-47DB-8BD9-89A1B00F4633}
+	EndGlobalSection
+EndGlobal
